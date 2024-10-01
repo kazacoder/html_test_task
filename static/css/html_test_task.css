@@ -1,0 +1,21 @@
+.my_table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 800px;
+}
+
+.my_table td {
+    border: 1px solid;
+    padding: 2px 5px;
+
+}
+
+.my_table thead {
+    text-align: center;
+    background-color: #B2FFFD;
+}
+
+.category_name {
+    background-color: #EAFFFE;
+    text-align: left;
+}
